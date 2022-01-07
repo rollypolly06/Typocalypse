@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.c">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="menu.c">
+      <Filter>Level\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="splash_screen.c">
+      <Filter>Level\Splash Screen</Filter>
+    </ClCompile>
+    <ClCompile Include="buttons.c">
+      <Filter>Buttons</Filter>
+    </ClCompile>
+    <ClCompile Include="level_manager.c">
+      <Filter>Level</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_manager.c">
+      <Filter>Pointer Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="typing.c">
+      <Filter>Typing</Filter>
+    </ClCompile>
+    <ClCompile Include="quad.c">
+      <Filter>Quad Tree</Filter>
+    </ClCompile>
+    <ClCompile Include="geometry.c">
+      <Filter>Geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="player.c">
+      <Filter>Player</Filter>
+    </ClCompile>
+    <ClCompile Include="io_files.c">
+      <Filter>I/O Files</Filter>
+    </ClCompile>
+    <ClCompile Include="word_generator.c">
+      <Filter>Word Generator</Filter>
+    </ClCompile>
+    <ClCompile Include="AABB.c">
+      <Filter>Collision Detection\AABB</Filter>
+    </ClCompile>
+    <ClCompile Include="collision_detection.c">
+      <Filter>Collision Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="tower.c">
+      <Filter>Tower</Filter>
+    </ClCompile>
+    <ClCompile Include="text_render.c">
+      <Filter>Text Render</Filter>
+    </ClCompile>
+    <ClCompile Include="enemy.c">
+      <Filter>Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="grid_system.c">
+      <Filter>Grid System</Filter>
+    </ClCompile>
+    <ClCompile Include="level_editor.c">
+      <Filter>Level Editor</Filter>
+    </ClCompile>
+    <ClCompile Include="render_manager.c">
+      <Filter>Render Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="ui.c">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="gold.c">
+      <Filter>Gold</Filter>
+    </ClCompile>
+    <ClCompile Include="game_state.c">
+      <Filter>Game State</Filter>
+    </ClCompile>
+    <ClCompile Include="player_health.c">
+      <Filter>Player Health</Filter>
+    </ClCompile>
+    <ClCompile Include="level_1.c">
+      <Filter>Level\Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="level_2.c">
+      <Filter>Level\Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="level_3.c">
+      <Filter>Level\Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="level_4.c">
+      <Filter>Level\Level 4</Filter>
+    </ClCompile>
+    <ClCompile Include="level_5.c">
+      <Filter>Level\Level 5</Filter>
+    </ClCompile>
+    <ClCompile Include="level_maker.c">
+      <Filter>Level\Level Maker</Filter>
+    </ClCompile>
+    <ClCompile Include="test.c">
+      <Filter>Level\Test</Filter>
+    </ClCompile>
+    <ClCompile Include="death_screen.c">
+      <Filter>Death Screen</Filter>
+    </ClCompile>
+    <ClCompile Include="game_difficulty.c">
+      <Filter>Game Difficulty</Filter>
+    </ClCompile>
+    <ClCompile Include="common_gameplay.c">
+      <Filter>Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="win_screen.c">
+      <Filter>Win_Screen</Filter>
+    </ClCompile>
+    <ClCompile Include="type_to_kill.c">
+      <Filter>Type To Kill</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source">
+      <UniqueIdentifier>{ad564b1d-49f3-4d0b-aefd-d0269cf34eb9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header">
+      <UniqueIdentifier>{32ced3da-02b7-4a55-ab7b-b19007dd8e2b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buttons">
+      <UniqueIdentifier>{10fd8e40-732d-447e-9809-0624e75175cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Level">
+      <UniqueIdentifier>{579ce525-c064-4151-9f3c-64d500b22617}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pointer Manager">
+      <UniqueIdentifier>{ff03b223-3d86-429f-ba42-fb78818da239}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Typing">
+      <UniqueIdentifier>{a527919a-1dea-43a9-89c4-c4ad3ecb55cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quad Tree">
+      <UniqueIdentifier>{1bec3237-2356-460e-8080-fe580afb381e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Geometry">
+      <UniqueIdentifier>{02a8fb8b-9155-450c-ab95-9829ffef9982}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Player">
+      <UniqueIdentifier>{756a0c0f-d80e-411c-9b34-cd05ecd84655}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="I/O Files">
+      <UniqueIdentifier>{b7e39f3a-a469-4b97-be81-f7725bbcce35}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Word Generator">
+      <UniqueIdentifier>{c94601fe-4a2f-4d3f-a70e-095f62b087e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Collision Detection">
+      <UniqueIdentifier>{a131bc73-4267-4915-94d5-0b213034a9a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Collision Detection\AABB">
+      <UniqueIdentifier>{ba02a1f0-56ee-4e86-b0d6-bcf272bd78f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Geometry\Shapes">
+      <UniqueIdentifier>{75170176-dc33-4ba7-ad9c-61712aa6b9c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Geometry\Shapes\Rectangle">
+      <UniqueIdentifier>{6058b051-5dc7-4d77-a1d0-34478ddfb814}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Geometry\Shapes\Circle">
+      <UniqueIdentifier>{d1eab8b8-ae86-4269-b652-0a99c3185618}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Tower">
+      <UniqueIdentifier>{0776e0e9-40eb-46e1-a1d4-e1e4cd6cb6fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enemy">
+      <UniqueIdentifier>{a4434409-8725-450b-a84c-87a73ae99fe5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Text Render">
+      <UniqueIdentifier>{68d42137-d497-4446-8366-985a18d9d0c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Grid System">
+      <UniqueIdentifier>{324fcdbe-ce15-4795-83fe-e13fb5884a20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Level Editor">
+      <UniqueIdentifier>{a28c4ec4-fce7-43a4-9694-e02f97517c95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Render Manager">
+      <UniqueIdentifier>{24fc8217-28bd-4c39-a146-c85b9a9f2360}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI">
+      <UniqueIdentifier>{87918d64-0045-46d1-882b-941051e8f77d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gold">
+      <UniqueIdentifier>{c8658b50-4218-4f2a-968d-fb6cc574680d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game State">
+      <UniqueIdentifier>{ccc9fb45-a14e-4ebb-9201-ce98538eb785}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Player Health">
+      <UniqueIdentifier>{67a8e8fd-ca3e-496d-b1c9-ddb14f8234bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Level\Splash Screen">
+      <UniqueIdentifier>{70333c1c-38f7-4f16-8c67-35c0218d2150}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Level\Menu">
+      <UniqueIdentifier>{a96450fe-1eb2-4b9a-922c-93bff1fd97be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Level\Level 1">
+      <UniqueIdentifier>{e4d2b9fc-667a-4402-babc-b5ecb6dcbd83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Level\Level 2">
+      <UniqueIdentifier>{3bb97d9f-c5fe-4471-b278-8c8b9d97aeaf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Level\Level 3">
+      <UniqueIdentifier>{e6cfaa08-f649-4682-9d89-1839eca579d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Level\Level 4">
+      <UniqueIdentifier>{b5589ec7-6284-40ac-b82b-4696c31f7a6c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Level\Level 5">
+      <UniqueIdentifier>{f3746a9e-10cd-4a52-bf98-d3f5c4320eb6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Level\Level Maker">
+      <UniqueIdentifier>{9babedab-d3ea-499a-9641-c6bccd14a015}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Level\Test">
+      <UniqueIdentifier>{9b10caa2-c811-45e9-9268-e6588e7e737e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Death Screen">
+      <UniqueIdentifier>{30a27401-70c9-4fa7-9b85-48815df08402}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Difficulty">
+      <UniqueIdentifier>{86f2da5d-da74-46b8-87bb-085ae0c18ef4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gameplay">
+      <UniqueIdentifier>{c99285b7-9495-4ef6-b5b0-416f0c2ab3bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Win_Screen">
+      <UniqueIdentifier>{3d472675-6593-4af5-ad51-c1cdb6e55916}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Type To Kill">
+      <UniqueIdentifier>{cbb79de0-b46e-4daa-9a9f-0a1d983e7658}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="common_headers.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="menu.h">
+      <Filter>Level\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="splash_screen.h">
+      <Filter>Level\Splash Screen</Filter>
+    </ClInclude>
+    <ClInclude Include="boolean.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="buttons.h">
+      <Filter>Buttons</Filter>
+    </ClInclude>
+    <ClInclude Include="level.h">
+      <Filter>Level</Filter>
+    </ClInclude>
+    <ClInclude Include="level_manager.h">
+      <Filter>Level</Filter>
+    </ClInclude>
+    <ClInclude Include="pointer_manager.h">
+      <Filter>Pointer Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="typing.h">
+      <Filter>Typing</Filter>
+    </ClInclude>
+    <ClInclude Include="points.h">
+      <Filter>Quad Tree</Filter>
+    </ClInclude>
+    <ClInclude Include="quad.h">
+      <Filter>Quad Tree</Filter>
+    </ClInclude>
+    <ClInclude Include="geometry.h">
+      <Filter>Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="player.h">
+      <Filter>Player</Filter>
+    </ClInclude>
+    <ClInclude Include="io_files.h">
+      <Filter>I/O Files</Filter>
+    </ClInclude>
+    <ClInclude Include="word_generator.h">
+      <Filter>Word Generator</Filter>
+    </ClInclude>
+    <ClInclude Include="collision_detection.h">
+      <Filter>Collision Detection</Filter>
+    </ClInclude>
+    <ClInclude Include="node.h">
+      <Filter>Quad Tree</Filter>
+    </ClInclude>
+    <ClInclude Include="rectangle.h">
+      <Filter>Geometry\Shapes\Rectangle</Filter>
+    </ClInclude>
+    <ClInclude Include="circle.h">
+      <Filter>Geometry\Shapes\Circle</Filter>
+    </ClInclude>
+    <ClInclude Include="AABB.h">
+      <Filter>Collision Detection\AABB</Filter>
+    </ClInclude>
+    <ClInclude Include="basic_shapes.h">
+      <Filter>Geometry\Shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="tower.h">
+      <Filter>Tower</Filter>
+    </ClInclude>
+    <ClInclude Include="text_render.h">
+      <Filter>Text Render</Filter>
+    </ClInclude>
+    <ClInclude Include="enemy.h">
+      <Filter>Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="grid_system.h">
+      <Filter>Grid System</Filter>
+    </ClInclude>
+    <ClInclude Include="level_editor.h">
+      <Filter>Level Editor</Filter>
+    </ClInclude>
+    <ClInclude Include="render_manager.h">
+      <Filter>Render Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="ui.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="gold.h">
+      <Filter>Gold</Filter>
+    </ClInclude>
+    <ClInclude Include="game_state.h">
+      <Filter>Game State</Filter>
+    </ClInclude>
+    <ClInclude Include="player_health.h">
+      <Filter>Player Health</Filter>
+    </ClInclude>
+    <ClInclude Include="level_1.h">
+      <Filter>Level\Level 1</Filter>
+    </ClInclude>
+    <ClInclude Include="level_2.h">
+      <Filter>Level\Level 2</Filter>
+    </ClInclude>
+    <ClInclude Include="level_3.h">
+      <Filter>Level\Level 3</Filter>
+    </ClInclude>
+    <ClInclude Include="level_4.h">
+      <Filter>Level\Level 4</Filter>
+    </ClInclude>
+    <ClInclude Include="level_5.h">
+      <Filter>Level\Level 5</Filter>
+    </ClInclude>
+    <ClInclude Include="level_maker.h">
+      <Filter>Level\Level Maker</Filter>
+    </ClInclude>
+    <ClInclude Include="test.h">
+      <Filter>Level\Test</Filter>
+    </ClInclude>
+    <ClInclude Include="death_screen.h">
+      <Filter>Death Screen</Filter>
+    </ClInclude>
+    <ClInclude Include="game_difficulty.h">
+      <Filter>Game Difficulty</Filter>
+    </ClInclude>
+    <ClInclude Include="common_gameplay.h">
+      <Filter>Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="win_screen.h">
+      <Filter>Win_Screen</Filter>
+    </ClInclude>
+    <ClInclude Include="type_to_kill.h">
+      <Filter>Type To Kill</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

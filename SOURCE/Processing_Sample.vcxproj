@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>15.0</VCProjectVersion>
+    <ProjectGuid>{14B654ED-D716-460A-8335-22E3EDB70027}</ProjectGuid>
+    <rootNamespace>ProcessingSample</rootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserrootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserrootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserrootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserrootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserrootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserrootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserrootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserrootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <IncludePath>$(SolutionDir)CProcessing\inc\;$(VC_IncludePath);$(WindowsSDK_IncludePath)</IncludePath>
+    <LibraryPath>$(SolutionDir)CProcessing\lib\x86\;$(VC_LibraryPath_x86);$(WindowsSDK_LibraryPath_x86);$(NETFXKitsDir)Lib\um\x86</LibraryPath>
+    <OutDir>$(SolutionDir)$(Platform)\$(Configuration)\</OutDir>
+    <IntDir>$(Platform)\$(Configuration)\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <IncludePath>$(SolutionDir)CProcessing\inc\;$(VC_IncludePath);$(WindowsSDK_IncludePath)</IncludePath>
+    <LibraryPath>$(SolutionDir)CProcessing\lib\x86\;$(VC_LibraryPath_x86);$(WindowsSDK_LibraryPath_x86);$(NETFXKitsDir)Lib\um\x86</LibraryPath>
+    <OutDir>$(SolutionDir)$(Platform)\$(Configuration)\</OutDir>
+    <IntDir>$(Platform)\$(Configuration)\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <IncludePath>$(SolutionDir)CProcessing\inc\;$(VC_IncludePath);$(WindowsSDK_IncludePath)</IncludePath>
+    <LibraryPath>$(SolutionDir)CProcessing\lib\x64\;$(VC_LibraryPath_x64);$(WindowsSDK_LibraryPath_x64);$(NETFXKitsDir)Lib\um\x64</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <IncludePath>$(SolutionDir)CProcessing\inc\;$(VC_IncludePath);$(WindowsSDK_IncludePath)</IncludePath>
+    <LibraryPath>$(SolutionDir)CProcessing\lib\x64\;$(VC_LibraryPath_x64);$(WindowsSDK_LibraryPath_x64);$(NETFXKitsDir)Lib\um\x64</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level4</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <TreatWarningAsError>true</TreatWarningAsError>
+      <CompileAs>CompileAsC</CompileAs>
+      <PreprocessorDefinitions>_MBCS;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <UndefinePreprocessorDefinitions>_CONSOLE</UndefinePreprocessorDefinitions>
+      <CallingConvention>Cdecl</CallingConvention>
+      <AdditionalOptions>/wd4100 %(AdditionalOptions)</AdditionalOptions>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>CProcessingd.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <SubSystem>Windows</SubSystem>
+      <EntryPointSymbol>mainCRTStartup</EntryPointSymbol>
+    </Link>
+    <PostBuildEvent>
+      <Command>xcopy "$(ProjectDir)CProcessing\lib\x86\CProcessingd.dll" "$(OutDir)" /s /r /y /q
+xcopy "$(ProjectDir)CProcessing\lib\x86\fmodL.dll" "$(OutDir)" /s /r /y /q
+xcopy "$(ProjectDir)Assets\*" "$(OutDir)Assets\" /s /r /y /q</Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level4</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <TreatWarningAsError>true</TreatWarningAsError>
+      <CompileAs>CompileAsC</CompileAs>
+      <PreprocessorDefinitions>_MBCS;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <UndefinePreprocessorDefinitions>_CONSOLE</UndefinePreprocessorDefinitions>
+      <CallingConvention>Cdecl</CallingConvention>
+      <AdditionalOptions>/wd4100 %(AdditionalOptions)</AdditionalOptions>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+    </ClCompile>
+    <Link>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalDependencies>CProcessing.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <SubSystem>Windows</SubSystem>
+      <EntryPointSymbol>mainCRTStartup</EntryPointSymbol>
+    </Link>
+    <PostBuildEvent>
+      <Command>xcopy "$(ProjectDir)CProcessing\lib\x86\CProcessing.dll" "$(OutDir)" /s /r /y /q
+xcopy "$(ProjectDir)CProcessing\lib\x86\fmod.dll" "$(OutDir)" /s /r /y /q
+xcopy "$(ProjectDir)Assets\*" "$(OutDir)Assets\" /s /r /y /q</Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level4</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <TreatWarningAsError>true</TreatWarningAsError>
+      <CompileAs>CompileAsC</CompileAs>
+      <PreprocessorDefinitions>_MBCS;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <UndefinePreprocessorDefinitions>_CONSOLE</UndefinePreprocessorDefinitions>
+      <CallingConvention>Cdecl</CallingConvention>
+      <AdditionalOptions>/wd4100 %(AdditionalOptions)</AdditionalOptions>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>CProcessingd.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <SubSystem>Windows</SubSystem>
+      <EntryPointSymbol>mainCRTStartup</EntryPointSymbol>
+    </Link>
+    <PostBuildEvent>
+      <Command>xcopy "$(ProjectDir)CProcessing\lib\x64\CProcessingd.dll" "$(OutDir)" /s /r /y /q
+xcopy "$(ProjectDir)CProcessing\lib\x64\fmodL.dll" "$(OutDir)" /s /r /y /q
+xcopy "$(ProjectDir)Assets\*" "$(OutDir)Assets\" /s /r /y /q</Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level4</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <TreatWarningAsError>true</TreatWarningAsError>
+      <CompileAs>CompileAsC</CompileAs>
+      <PreprocessorDefinitions>_MBCS;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <UndefinePreprocessorDefinitions>_CONSOLE</UndefinePreprocessorDefinitions>
+      <CallingConvention>Cdecl</CallingConvention>
+      <AdditionalOptions>/wd4100 %(AdditionalOptions)</AdditionalOptions>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+    </ClCompile>
+    <Link>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalDependencies>CProcessing.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <SubSystem>Windows</SubSystem>
+      <EntryPointSymbol>mainCRTStartup</EntryPointSymbol>
+    </Link>
+    <PostBuildEvent>
+      <Command>xcopy "$(ProjectDir)CProcessing\lib\x64\CProcessing.dll" "$(OutDir)" /s /r /y /q
+xcopy "$(ProjectDir)CProcessing\lib\x64\fmod.dll" "$(OutDir)" /s /r /y /q
+xcopy "$(ProjectDir)Assets\*" "$(OutDir)Assets\" /s /r /y /q</Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="AABB.c" />
+    <ClCompile Include="common_gameplay.c" />
+    <ClCompile Include="death_screen.c" />
+    <ClCompile Include="enemy.c" />
+    <ClCompile Include="buttons.c" />
+    <ClCompile Include="collision_detection.c" />
+    <ClCompile Include="game_difficulty.c" />
+    <ClCompile Include="game_state.c" />
+    <ClCompile Include="geometry.c" />
+    <ClCompile Include="gold.c" />
+    <ClCompile Include="grid_system.c" />
+    <ClCompile Include="io_files.c" />
+    <ClCompile Include="level_1.c" />
+    <ClCompile Include="level_2.c" />
+    <ClCompile Include="level_3.c" />
+    <ClCompile Include="level_4.c" />
+    <ClCompile Include="level_5.c" />
+    <ClCompile Include="level_editor.c" />
+    <ClCompile Include="level_maker.c" />
+    <ClCompile Include="level_manager.c" />
+    <ClCompile Include="main.c" />
+    <ClCompile Include="menu.c" />
+    <ClCompile Include="player.c" />
+    <ClCompile Include="player_health.c" />
+    <ClCompile Include="pointer_manager.c" />
+    <ClCompile Include="quad.c" />
+    <ClCompile Include="render_manager.c" />
+    <ClCompile Include="splash_screen.c" />
+    <ClCompile Include="test.c" />
+    <ClCompile Include="tower.c" />
+    <ClCompile Include="text_render.c" />
+    <ClCompile Include="type_to_kill.c" />
+    <ClCompile Include="typing.c" />
+    <ClCompile Include="ui.c" />
+    <ClCompile Include="win_screen.c" />
+    <ClCompile Include="word_generator.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AABB.h" />
+    <ClInclude Include="basic_shapes.h" />
+    <ClInclude Include="common_gameplay.h" />
+    <ClInclude Include="death_screen.h" />
+    <ClInclude Include="enemy.h" />
+    <ClInclude Include="boolean.h" />
+    <ClInclude Include="buttons.h" />
+    <ClInclude Include="circle.h" />
+    <ClInclude Include="collision_detection.h" />
+    <ClInclude Include="common_headers.h" />
+    <ClInclude Include="game_difficulty.h" />
+    <ClInclude Include="game_state.h" />
+    <ClInclude Include="geometry.h" />
+    <ClInclude Include="gold.h" />
+    <ClInclude Include="grid_system.h" />
+    <ClInclude Include="io_files.h" />
+    <ClInclude Include="level.h" />
+    <ClInclude Include="level_1.h" />
+    <ClInclude Include="level_2.h" />
+    <ClInclude Include="level_3.h" />
+    <ClInclude Include="level_4.h" />
+    <ClInclude Include="level_5.h" />
+    <ClInclude Include="level_editor.h" />
+    <ClInclude Include="level_maker.h" />
+    <ClInclude Include="level_manager.h" />
+    <ClInclude Include="menu.h" />
+    <ClInclude Include="node.h" />
+    <ClInclude Include="player.h" />
+    <ClInclude Include="player_health.h" />
+    <ClInclude Include="pointer_manager.h" />
+    <ClInclude Include="points.h" />
+    <ClInclude Include="quad.h" />
+    <ClInclude Include="rectangle.h" />
+    <ClInclude Include="render_manager.h" />
+    <ClInclude Include="splash_screen.h" />
+    <ClInclude Include="test.h" />
+    <ClInclude Include="tower.h" />
+    <ClInclude Include="text_render.h" />
+    <ClInclude Include="type_to_kill.h" />
+    <ClInclude Include="typing.h" />
+    <ClInclude Include="ui.h" />
+    <ClInclude Include="win_screen.h" />
+    <ClInclude Include="word_generator.h" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

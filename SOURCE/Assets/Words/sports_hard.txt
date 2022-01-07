@@ -1,0 +1,578 @@
+AFL Wheelchair
+Acrobatic Gymnastics
+Adventure Racing
+Aerobatics
+Aeromodeling
+Aeronautical Pentathlon
+Aesthetic Gymnastics
+Aggressive Inline Skating
+Air Hockey
+Air Racing
+All-Terrain Boarding
+Alpine Skiing
+American Football
+American Handball
+Aquajogging
+Arena Football
+Arena Polo
+Arena Rugby
+Arm Wrestling
+Artistic Billiards
+Artistic Cycling
+Artistic Gymnastics
+Artistic Pool
+Artistic Roller Skating
+Association Croquet
+Association Football
+Australian Football
+Australian Handball
+Auto Racing
+Autospeedway
+Axe Throwin
+Backstroke
+Balance Beam
+Ball Badminton
+Ball Hockey
+Ballooning
+Banger Racing
+Banzai Skydiving
+Bare-knuckle Boxing
+Barefoot Skiing
+Barrel Racing
+Basketball
+Bat-and-Trap
+Baton Twirling
+Bavarian Curling
+Beach Basketball
+Beach Flags
+Beach Golf
+Beach Handball
+Beach Netball
+Beach Polo
+Beach Rugby
+Beach Sambo
+Beach Soccer
+Beach Tennis
+Beach Volleyball
+Beach Water Polo
+Beach Woodball
+Beach Wrestling
+Beikou Tarkbei
+Belt Wrestling
+Benchpress
+Benchrest Shooting
+Bicycle Motocross
+Bicycle Polo
+Big Wave Surfing
+Bikejoring
+Blind Cricket
+Boardercross
+Bodyboarding
+Bodybuilding
+Bodyflight
+Bolas Criollas
+Boli Khela
+Boomerang Throwing
+Borden Ball
+Bouldering
+Box Lacrosse
+Brazilian Jiu-jitsu
+Breakdancing
+Breaststroke
+British Baseball
+Bull Fighting
+Bull Riding
+Butterfly Stroke
+Caber Toss
+Calisthenics
+Camel Racing
+Campdrafting
+Canadian Football
+Candlepin Bowling
+Canne De Combat
+Canoe Marathon
+Canoe Polo
+Canopy Piloting
+Capture The Flag
+Car Ice Racing
+Carom Billiards
+Carriage Driving
+Cheerleading
+Chess Boxing
+Chilean Rodeo
+Chinese Handball
+Chuckwagon Racing
+Circle Rules Football
+Clay Pigeon Shooting
+Clean And Jerk
+Clout Archery
+Club Throw
+Coastal Rowing
+Collegiate Wrestling
+Combined Driving
+Competitive Eating
+Court Tennis
+Cowboy Action Shooting
+Cowboy Mounted Shooting
+Cowboy Polo
+Crab Football
+Crazy Golf
+Cross Triathlon
+Cross-Country Equestrian
+Cross-Country Mountain Biking
+Cross-Country Rally
+Cross-Country Skiing
+Cross-country Running
+Crossbow Archery
+Crossminton
+Cup Stacking
+Cushion Caroms
+Cycle Ball
+Cycle Polo
+Cycle Speedway
+Cycling Time Trial
+Cyclo-Cross
+Czech Handball
+Dancesport
+Dandi Biyo
+Danish Longball
+Daur Hockey
+Deadlifting
+Deaf Basketball
+Demolition Derby
+Disc Sports
+Dog Agility
+Dog Racing
+Dog Sledding
+Dog Sports
+Downhill Mountain Biking
+Downhill Skiing
+Drag Boat Racing
+Drag Racing
+Dragon Boat Racing
+Drone Racing
+Duckpin Bowling
+Eight-Ball
+Eight-man Football
+Elephant Polo
+Endurance Racing
+Endurance Riding
+Endurance Running
+Endurocross
+English Billiards
+Equestrian
+Equestrian Vaulting
+Eton Fives
+Expedition Racing
+Fast Pitch Softball
+Fell Running
+Field Archery
+Field Handball
+Field Hockey
+Field Lacrosse
+Field Target
+Fierljeppen
+Figure Skating
+Finnish Skittles
+Finswimming
+Fisticuffs
+Five-Pin Billiards
+Five-a-Side Football
+Five-pin Bowling
+Flag Football
+Flight Archery
+Floor Hockey
+Flyboarding
+Footbag Net
+Football Tennis
+Footvolley
+Formula Racing
+Four Square
+Freediving
+Freerunning
+Freestyle BMX
+Freestyle Flying Disc
+Freestyle Footbag
+Freestyle Football
+Freestyle Motocross
+Freestyle Skateboarding
+Freestyle Skiin
+Freestyle Slalom Skating
+Freestyle Snowboarding
+Freestyle Swimming
+Freestyle Wrestling
+Frescoball
+Frisian Handball
+Fullbore Target Rifle
+Gaelic Football
+Gaelic Handball
+Giant Slalom
+Gilli-Danda
+Golf Croquet
+Grass Skiing
+Greco-Roman Wrestling
+Greyhound Racing
+Gridiron Football
+Gymnastics
+Half-Pipe Skiing
+Hammer Throw
+Hang Gliding
+Hardball Squash
+Hare Coursing
+Harness Racing
+Heptathlon
+High Diving
+High Power Rifle
+Hill Climb
+Hillclimbing
+Horizontal Bar
+Horse Polo
+Horse Pulling
+Horse Racing
+Horse Soccer
+Horseback Archery
+Horseshoes
+Hot Air Ballooning
+Hovercraft Racing
+Hydroplane Racing
+Ice Canoeing
+Ice Climbing
+Ice Cross Downhill
+Ice Dancing
+Ice Hockey
+Ice Racing
+Ice Skating
+Ice Sledge Racing
+Ice Speedway
+Ice Stock Sport
+Ice Track Cycling
+Ice Yachting
+Icosathlon
+Indoor Cricket
+Indoor Field Hockey
+Indoor Netball
+Indoor Rowing
+Indoor Soccer
+Indoor Triathlon
+Inline Hockey
+Inline Skating
+Inline Speed Skating
+Intercrosse
+International Fronton
+International Game
+International Rules Football
+Irish Road Bowling
+Jet Ski Racing
+Kalaripayattu
+Kart Racing
+Kelly Pool
+Kettlebell Lifting
+Kickboxing
+Kite Boarding
+Kite Fighting
+Kite Foil Racing
+Kite Landboarding
+Kitesurfing
+Klootschieten
+Kneeboarding
+Knife Throwing
+Land Sailing
+Land Speed Records
+Land Windsurfing
+Lawn Bowls
+Lawn Mower Racing
+Lead Climbing
+Legends Car Racing
+Lelo Burti
+Letterboxing
+Log Rolling
+Long Drive
+Longboarding
+Longue Paume
+Lumberjack
+Mallakhamba
+Metallic Silhouette Shooting
+Metro Footy
+Middle Distance
+Mind Sports
+Mini Rugby
+Minigolf Or Miniature Golf
+Mixed Martial Arts
+Modern Pentathlon
+Mogul Skiing
+Mongolian Wrestling
+Moscow Broomball
+Motorcycle Gymkhana
+Motorcycle Sidecar Racing
+Motorcycle Speedway
+Motorcycle Trials
+Motorcycling Road Racing
+Motorsports
+Mountain Biking
+Mountain Unicycling
+Mountainboarding
+Mountaineering
+Mounted Orienteering
+Mud Bogging
+Muggle Quidditch
+Naginatajutsu
+Naval Pentathlon
+Newcomb Ball
+Nine Pin Bowling
+Nine-Man Football
+Nine-a-side Footy
+Nordic Combined
+Nordic Skiing
+Northern Praying Mantis
+Obstacle Course Racing
+Ocean Rowing
+Off-Road Racing
+Offroad Boarding
+Oil Wrestling
+Okinawan Kobud
+One-Pocket
+Open Water Swimming
+Orienteering
+Outdoor Handball
+Outrigger Canoeing
+Over-the-line
+Paddle Tennis
+Paddleball
+Paddleboarding
+Paleta Fron
+Pankration
+Para-Climbing
+Para-Cycling
+Parachuting
+Paragliding
+Parallel Bars
+Paralympic Football
+Paratriathlon
+Park Skateboarding
+Pelota Mixteca
+Pencak Silat
+Pickleball
+Pigeon Racing
+Pitch And Putt
+Platform Tennis
+Playboating
+Pleasure Driving
+Pocket Billiards
+Pole Climbing
+Pole Dancing
+Pole Vault
+Polo (Horse Polo)
+Polocrosse
+Pommel Horse
+Pond Hockey
+Power Boat Racing
+Power Hockey
+Powerchair Football
+Powerlifting
+Practical Shooting
+Pradal Serey
+Prizefighting
+Quadrathlon
+Race Walking
+Racerunning
+Racquetball
+Raffa Bocce
+Rally Racing
+Rally Raid
+Rallycross
+Real Tennis
+Relay Running
+Relay Swimming
+Rhythmic Gymnastics
+Rink Bandy
+Rink Hockey
+Road Bicycle Racing
+Road Bowling
+Road Skating
+Road Tennis
+Robot Combat
+Robot Soccer
+Robot Sports
+Rock Climbing
+Roller Derby
+Roller Hockey
+Roller Skating
+Roller Skiing
+Roller Soccer
+Rope Climbing
+Rope Jumping
+Russian Pyramid
+Samoa Rules
+Sandboarding
+Sandsurfing
+Scootering
+Sculling Rowing
+Scurry Driving
+Segway Polo
+Sepak Takraw
+Shinty-Hurling
+Shooting Sports
+Show Jumping
+Shuffleboard
+Shuttlecock
+Singlestick
+Sitting Volleyball
+Six-Man Football
+Sixes Lacrosse
+Skateboarding
+Skeet Shooting
+Ski Archery
+Ski Ballet
+Ski Flying
+Ski Jumping
+Ski Mountaineering
+Ski Orienteering
+Skiboarding
+Skibobbing
+Skyrunning
+Skysurfing
+Slacklining
+Slalom Skiing
+Sledge Hockey
+Slopestyle
+Slopestyle Skiing
+Slopestyle Snowboarding
+Slow-Pitch Softball
+Snow Rugby
+Snow Skiing
+Snow Volleyball
+Snowbiking
+Snowboard Cross
+Snowboarding
+Snowboating
+Snowkiting
+Snowmobile Racing
+Snowshoeing
+Soft Tennis
+Softball Throw
+Sorro Wrestling
+Speed Climbing
+Speed Golf
+Speed Pool
+Speed Skating
+Speed Skiing
+Speed-Ball
+Speedcubing
+Speedminton
+Sport Kite
+Sporting Clays
+Sports Car Racing
+Sports Table Football
+Sprint (Athletics)
+Sprint Car Racing
+Sprint Football
+Squash Tennis
+Standup Paddleboarding
+Steeplechase
+Stick-Fighting
+Stock Car Racing
+Straight Pool
+Street Hockey
+Street Skateboarding
+Streetluge
+Sumo Wrestling
+Super Giant Slalom
+Supercross
+Surf Kayaking
+Surf Lifesaving
+Surfboat Rowing
+Swamp Football
+Sweep Rowing
+Synchronized Diving
+Synchronized Skating
+Synchronized Swimming
+Table Football
+Table Tennis
+Tamburello
+Target Archery
+Target Golf
+Target Shooting
+Tchoukball
+Team Handball
+Team Penning
+Telemark Skiing
+Tennis Polo
+Tenpin Bowling
+Tent Pegging
+Test Cricket
+Tetherball
+Tetradecathlon
+Tetrathlon
+Thoroughbred Racing
+Three-Cushion Billiards
+Toros Coleados
+Touch Football
+Touch Rugby
+Touring Car Racing
+Tower Running
+Track & Field
+Track Cycling
+Tractor Pulling
+Trampolining
+Trap Shooting
+Tree Climbing
+Triple Jump
+Tug Of War
+Ultralight Aviation
+Ultramarathon
+Underwater Football
+Underwater Hockey
+Underwater Ice Hockey
+Underwater Orienteering
+Underwater Photography
+Underwater Rugby
+Underwater Target Shooting
+Underwater Wrestling
+Uneven Bars
+Unicycle Basketball
+Unicycle Handball
+Unicycle Hockey
+Unicycle Trials
+Unicycling
+Unicycling Racing
+Urban Golf
+Vajra-mushti
+Valencian Fron
+Valencian Pilota
+Varzesh-e Bastani
+Vert Skateboarding
+Vert Skating
+Vintage Racing
+Volleyball
+Wakeboarding
+Walking Football
+Walking Netball
+Washer Pitching
+Water Basketball
+Water Polo
+Water Skiing
+Water Volleyball
+Weight Throw
+Weightlifting
+Western Pleasure
+Wheelchair Basketball
+Wheelchair Curling
+Wheelchair Dancing
+Wheelchair Fencing
+Wheelchair Racing
+Wheelchair Rugby
+Wheelchair Tennis
+Whitewater Slalom
+Wiffleball
+Windsurfing
+Wingsuit Flying
+Winter Guard
+Winter Triathlon
+Women's lacrosse
+Wood Chopping
+Xingyiquan
+Yağlı Güreş
+Yubi Lakpi
+Yukigassen
+Zorb Football
+Zourkhaneh

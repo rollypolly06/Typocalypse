@@ -1,0 +1,377 @@
+Aero
+Aero Blue
+Alabaster
+Almond
+Amaranth
+Amazon
+Amazonite
+Amber
+Amethyst
+Apricot
+Aqua
+Arsenic
+Artichoke
+Ash Grey
+Asparagus
+Auburn
+Aureolin
+Avocado
+Awesome
+Azure
+Baby Blue
+Baby Pink
+Ball Blue
+Barn Red
+Bazaar
+Beau Blue
+Beaver
+Begonia
+Beige
+Bisque
+Bistre
+Black
+Blond
+Blue
+Blue Bell
+Blue Bolt
+Blue-gray
+Blueberry
+Blush
+Bole
+Bone
+Brass
+Brick Red
+Bronze
+Brown
+Bubbles
+Bud Green
+Buff
+Burgundy
+Burlywood
+Byzantine
+Byzantium
+Cadet
+Camel
+Canary
+Capri
+Cardinal
+Carmine
+Carnelian
+Catawba
+Ceil
+Celadon
+Celeste
+Cerise
+Cerulean
+CG Blue
+CG Red
+Chamoisee
+Champagne
+Charcoal
+Cherry
+Chestnut
+Chocolate
+Cinereous
+Cinnabar
+Citrine
+Citron
+Claret
+Coconut
+Coffee
+Cool Grey
+Copper
+Coral
+Coral Red
+Cordovan
+Corn
+Cornsilk
+Cream
+Crimson
+Cultured
+Cyan
+Cyclamen
+Daffodil
+Dandelion
+Dark Blue
+Dark Cyan
+Dark Gray
+Dark Grey
+Dark Lava
+Dark Pink
+Dark Puce
+Dark Red
+Dark Tan
+Deep Pink
+Deep Puce
+Deep Red
+Deep Ruby
+Deer
+Denim
+Desert
+Desire
+Diamond
+Dim Gray
+Dirt
+Drab
+Duke Blue
+Ebony
+Ecru
+Eggplant
+Eggshell
+Emerald
+Eminence
+Eton Blue
+Fallow
+Falu Red
+Fandango
+Fawn
+Feldgrau
+Feldspar
+Firebrick
+Flame
+Flattery
+Flax
+Flirt
+Folly
+Fresh Air
+Frostbite
+Fuchsia
+Fulvous
+fuschia
+Gainsboro
+Gamboge
+Ginger
+Glaucous
+Glitter
+GO Green
+gold
+Golden
+Goldenrod
+Grape
+Gray
+Gray-blue
+Green
+grey
+Grizzly
+Grullo
+Gunmetal
+Han Blue
+Harlequin
+Heat Wave
+Honeydew
+Hot Pink
+Icterine
+Imperial
+Inchworm
+Indigo
+Infra Red
+Iris
+Ivory
+Jade
+Jasmine
+Jasper
+Jet
+Jonquil
+June Bud
+Keppel
+Key Lime
+Khaki
+Kiwi
+Kobe
+Kobi
+Kobicha
+Lava
+Lavender
+Lemon
+Liberty
+Licorice
+Light Red
+Lilac
+Limerick
+Linen
+Lion
+Liver
+Livid
+Lumber
+Lust
+Magenta
+Magnolia
+Mahogany
+Maize
+Malachite
+Manatee
+Mandarin
+Mantis
+Marigold
+Maroon
+Mauve
+Mauvelous
+May Green
+Maya Blue
+Melon
+Midnight
+Mimi Pink
+Mindaro
+Ming
+Mint
+Moccasin
+MSU Green
+Mulberry
+Mustard
+Mystic
+Navy
+Navy Blue
+Neon Blue
+Neon Pink
+New Car
+Nickel
+Nyanza
+Ochre
+Off White
+Ogre Odor
+Old Gold
+Old Lace
+Old Mauve
+Old Rose
+Olive
+Olivine
+Onyx
+Orchid
+Pale Aqua
+Pale Blue
+Pale Cyan
+Pale Gold
+Pale Pink
+Pale Plum
+Palm Leaf
+Patriarch
+Peach
+Pear
+Pearl
+Peridot
+Persimmon
+Peru
+Phlox
+Pineapple
+Pink
+Pink Lace
+Pistachio
+Platinum
+Plum
+Popstar
+Prune
+Puce
+Puce Red
+Pumpkin
+Purple
+Purpureus
+Quartz
+Rackley
+Rajah
+Raspberry
+Raw Umber
+Red
+Red-brown
+Red Devil
+Red (NCS)
+Red (RYB)
+Red Salsa
+Redwood
+Regalia
+Rhythm
+Rose
+Rose Dust
+Rose Gold
+Rose Pink
+Rose Red
+Rose Vale
+Rosewood
+Ruber
+Ruby
+Ruby Red
+Ruddy
+Rufous
+Russet
+Rust
+Rusty Red
+Saffron
+Sage
+Salmon
+Sand
+Sand Dune
+Sandstorm
+Sandy Tan
+Sangria
+Sap Green
+Sapphire
+Scarlet
+Sea Blue
+Sea Green
+Seashell
+Sepia
+Shadow
+Shampoo
+Sienna
+Silver
+Sinopia
+skin
+Skobeloff
+Sky Blue
+Smitten
+Smoke
+Snow
+Soap
+Spicy Mix
+Stizza
+Straw
+Sunglow
+Sunny
+Sunray
+Sunset
+Tan
+Tangelo
+Tangerine
+Taupe
+Tea Green
+Tea Rose
+Teal
+Teal Blue
+Teal Deer
+Thistle
+Tomato
+Toolbox
+Topaz
+True Blue
+Tulip
+Turquoise
+Tuscan
+Tuscany
+UA Blue
+UA Red
+Ube
+UCLA Blue
+UCLA Gold
+UFO Green
+Ultra Red
+Umber
+UP Maroon
+Urobilin
+USC Gold
+Vanilla
+Verdigris
+Vermilion
+Veronica
+Violet
+Viridian
+Vivid Red
+Volt
+Wenge
+Wheat
+White
+Wine
+Wisteria
+Xanadu
+Yale Blue
+Yellow
+Zaffre
+Zomp
